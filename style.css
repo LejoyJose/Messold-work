@@ -1,0 +1,31 @@
+.mainsection{
+  padding:3% 18% 7%;
+}
+h1{
+  font-family: 'Cinzel', serif;
+  color: #8E7654;
+  font-size: 6rem;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
+.sec1Row{
+  text-align: center;
+}
+.footprints{
+  text-align: left;
+  font-family: 'Beau Rivage', cursive;
+  font-size: 1rem;
+}
+.sec2Row{
+  text-align: center;
+}
+
+#messold{
+  font-size: 1rem;
+  margin: 2rem 0 0;
+}
+.messoldright{
+  margin-top: 12%;
+}
